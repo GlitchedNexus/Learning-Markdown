@@ -54,3 +54,6 @@ no strict rules which prevent us from organising text with arbitrary heading lev
 making sure that we follow the correct order makes our text easier to organised and 
 ensures that the logical order is not changes when we intersprese new headings
 within our content.
+
+**NOTE:** Always precede the heading text with a space to ensure that our markdown code
+is compatible with all mardown processors.
