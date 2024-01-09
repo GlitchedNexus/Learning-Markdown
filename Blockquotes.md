@@ -49,7 +49,7 @@ You can have blockquotes within blockquotes as well! Just add an extra `>` to th
 > This is the outer blockquote again.
 
 ## LaTeX Within Blockquotes
-We can also contain mathematical formulae within block quotes using LaTeX equations. 
+We can also contain mathematical formulae within block quotes using LaTeX equations. As we saw before, just add `>` to the beginning of each line and you are good to go!
 
 > Force can be expressed in terms of the mass and acceleration of a body using th relation below,
 > $$F = ma.$$
