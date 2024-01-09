@@ -1,11 +1,11 @@
 # Paragraphs
-Say we want to break text into paragraphs. We we can simply to this
+Say we want to break text into paragraphs. We can simply do this
 by leaving a blank line between the two paragraphs.
 
 We separate this paragraph from the text above by leaving a blank line
 before the paragraph.
 
-Also note that unless we are putting paragraphs inside lists. We must not
+Also, note that unless we are putting paragraphs inside lists. We must not
 put tabs or spaces at the start of the paragraph. Keep the lines left aligned
 to prevent formatting errors.
 
@@ -29,15 +29,15 @@ white spaces in the string we are trying to enclose. Below is an example of bold
 Similar to the way we make textbold, to make text italics, simply enclose it with
 `*` on both sides as follows `*Your text goes here*`. Now we must ensure that we have
 any preceding or trailing white spaces in the string we are trying to enclose.
-Below is an example of italicised text.
+Below is an example of italicized text.
 
-*This text is italicised*
+*This text is italicized*
 
 ## Bold & Italics
 
-Sometimes you want a piece of text to be both bold and italicised. In these cases
+Sometimes you want a piece of text to be both bold and italicized. In these cases
 we can enclose the text in question using `***` on both sides as we did in the 
 cases for bold and italics as follows, `***Your text goes here***`. Below is an 
-example of bold and italicised text.
+example of bold and italicized text.
 
 ***This is the fancy text.***
