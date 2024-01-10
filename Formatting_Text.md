@@ -56,3 +56,16 @@ Here is an example
 > ***
 > # Topic Two
 > Content for topic two goes here!
+
+# Escape Characters
+Sometimes we want to use characters that we use to format a markdown file as part of our content. in such cases, we use escape sequences. The characters you can escape are:
+- Asterisk: `\*`
+- Underscore: `\_`
+- Curly braces: `\{ \}`
+- Square brackets: `\[ \]`
+- Brackets: `\( \)`
+- Hash: `\#`
+- Plus: `\+`
+- Minus: `\-`
+- Period: `\.`
+- Exclamation point: `\!`
