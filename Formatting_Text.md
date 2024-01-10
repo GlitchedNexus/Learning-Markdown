@@ -41,3 +41,18 @@ cases for bold and italics as follows, `***Your text goes here***`. Below is an
 example of bold and italicized text.
 
 ***This is the fancy text.***
+
+# Horizontal Rules
+Sometimes you want to add horizontal rules to show the separation between different sections of your markdown file. In such cases, we can add horizontal rules using one of the following delimiters on a line by themselves.:
+
+- Three or more asterisks (`***`)
+- Three or more dashes (`---`), 
+- Three or more underscores (`___`) 
+
+Here is an example
+
+> # Topic One
+> Content for topic one goes here!
+> ***
+> # Topic Two
+> Content for topic two goes here!
